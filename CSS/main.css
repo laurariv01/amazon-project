@@ -1,0 +1,57 @@
+.btn-primary{
+    color: black !important;
+    background-color: #ffc400a9;
+    height: 30px;
+    width: 355px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn-primary-1{
+    background-color: rgb(231, 228, 228) !important;
+    height: 30px;
+    width: 355px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn-secondary{
+    color: black !important;
+    background-color: white !important;
+    border-color: white !important;
+    margin-left: 120% !important
+}
+.col-md-3{
+    text-align: left;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%); # This helps center the text some more
+}  
+.btn-secondary-1{
+    font-size: 12px;
+    margin-left: 75%;
+    color: hsl(219, 58%, 52%) !important
+}
+.line{
+    text-align: center;
+    position: absolute;
+    top:80%;
+    left:50%;
+    transform: translate(-50%, -50%); # This helps center the text some more
+    margin-bottom: 
+}
+.btn-primary-1{
+    text-align: center;
+    position: absolute;
+    top:85%;
+    left:50%;
+    transform: translate(-50%, -50%); # This helps center the text some more
+}
+.exampleInputPassword1{
+    text-align: left;
+    margin-bottom: 30%
+}
+.footer{    
+    text-align: center;
+    position: absolute;
+    top:90%;
+    left:50%;
+    transform: translate(-50%, -50%); # This helps center the text some more
+}
